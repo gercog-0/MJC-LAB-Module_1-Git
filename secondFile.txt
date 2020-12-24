@@ -1,5 +1,5 @@
-CHANGE2 | This is second file
-CHANGE2 | There are a lot of words
+Line from git_1
+Line from git_2
 White mercedes
 Java better then C#
 I like learn to Java
