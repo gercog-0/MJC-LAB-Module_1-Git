@@ -1,0 +1,10 @@
+The first line
+The second line
+The third line
+Hello world
+Black mercedes
+EPAM Systems
+Try again to do task
+How do you want to do it?
+Module 1
+Love Java
