@@ -1,7 +1,7 @@
 CHANGE 1 ---- The first line
 CHANGE 2 ---- The second line
-The third line
-Hello world
+CHANGE LINE FOLDER 2
+CHANGE LINE FOLDER 2
 Black mercedes
 EPAM Systems
 Try again to do task
