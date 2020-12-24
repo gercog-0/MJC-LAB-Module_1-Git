@@ -1,5 +1,5 @@
-This is second file
-There are a lot of words
+CHANGE2 | This is second file
+CHANGE2 | There are a lot of words
 White mercedes
 Java better then C#
 I like learn to Java
